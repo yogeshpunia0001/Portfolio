@@ -1,5 +1,5 @@
 import React from 'react'
-import pic from '../../public/roundphoto.jpeg'
+import pic from '../../public/mainprofile.jpg';
 import { FaLinkedin } from "react-icons/fa";
 import { AiFillInstagram } from "react-icons/ai";
 import { TbBrandGmail } from "react-icons/tb";
