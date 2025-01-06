@@ -26,7 +26,8 @@ const Home = () => {
         />
         </div>
          <br />
-        <p className='text-sm md:text-md text-justify'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque adipisci quasi amet. Doloribus dolorum nobis suscipit laborum? Unde ipsum ratione harum fugit saepe similique nobis debitis praesentium ab quaerat.</p>
+        <p className='text-sm md:text-md text-justify'>
+"Hi, I'm a passionate MERN stack developer with hands-on experience building self-made projects that solve real-world problems. I specialize in designing and developing responsive, user-friendly web applications optimized for all devices. With expertise in MongoDB, Express.js, React.js, and Node.js, I bring ideas to life with clean, scalable, and efficient code. My journey is fueled by continuous learning and a strong focus on crafting seamless user experiences. Let's connect to collaborate on impactful solutions!"</p>
         <br />
         <div className='flex flex-col items-center md:flex-row md:justify-between space-y-2'>
         <div className='space-y-2 '>
@@ -59,8 +60,8 @@ const Home = () => {
         </div>
         </div>
         {/* RIGHT */}
-        <div className='md:w-1/2 md:mt-20 md:ml-32 order-1 md:order-2'>
-        <img src={pic} className='rounded-full md:w-[450px] md:h-[250px]' alt="" /></div>
+        <div className='md:w-1/2 md:mt-10 md:ml-32 order-1 md:order-2'>
+        <img src={pic} className='rounded-full md:w-[450px] md:h-[450px]' alt="" /></div>
       </div>
       <hr />
     </div>
